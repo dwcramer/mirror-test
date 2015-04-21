@@ -1,1 +1,1 @@
-/usr/bin/ssh -i /home/jenkins/.ssh/id_rsa
+/usr/bin/ssh -i /home/jenkins/.ssh/id_rsa $*
